@@ -67,7 +67,7 @@ This project provides an implementation of a simple but effective language ident
 3. **Run the code:**
     - Open the notebook in Jupyter:
         ```bash
-        jupyter notebook UKP__Language_Identifier(20250530145333_ModaresiRamin).ipynb
+        jupyter notebook language_identifier.ipynb
         ```
     - Follow the notebook cells for data processing, training, and evaluation.
 
