@@ -71,9 +71,18 @@ This project provides an implementation of a simple but effective language ident
         ```
     - Follow the notebook cells for data processing, training, and evaluation.
 
-4. **Data:**
-    - The code downloads and processes data automatically from the [Tatoeba Project](https://tatoeba.org).
-    - You can adjust the number of languages or sentences in the notebook settings.
+---
+
+## Data
+
+This project uses multilingual sentence data from the [Tatoeba Project](https://tatoeba.org/).
+
+**Instructions:**
+1. Download the dataset directly from [https://downloads.tatoeba.org/exports/sentences.tar.bz2](https://downloads.tatoeba.org/exports/sentences.tar.bz2).
+2. Extract the `sentences.csv` file from the archive.
+3. Place `sentences.csv` in the root directory of this repository (the same folder as the notebook).
+
+Once the file is in place, you can run the notebook without errors.
 
 ---
 
