@@ -100,5 +100,3 @@ This project provides an implementation of a simple but effective language ident
 - Tatoeba Project: https://tatoeba.org
 
 ---
-
-*Project by Ramin Modaresi, 2025.*
